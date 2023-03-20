@@ -1,4 +1,4 @@
-![MCC logo](./profile/images/mcc.png)
+![MCC logo](./profile/images/makro.png)
 
 ## You are not member of this GitHub organization!
 
